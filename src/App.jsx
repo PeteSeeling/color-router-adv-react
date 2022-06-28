@@ -49,7 +49,6 @@ export default function App() {
           <Link to="/rgb/147/112/219">Purple</Link>
         </ul>
       </header>
-
       <ScreenColor />
     </Router>
   );
